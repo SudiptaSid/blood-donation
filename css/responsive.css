@@ -1,0 +1,241 @@
+/* ------------------------ 
+    Max Width 1280px 
+------------------------ */
+@media (max-width: 1280px) {
+
+}
+/* ------------------------ 
+    Max Width 1080px 
+------------------------ */
+@media (max-width: 1080px) {
+.menu nav.navbar .navbar-nav li a {
+    font-size:12px;
+}
+.introduce-wrapper .introduce {
+    padding:20px 30px;
+}
+.introduce-wrapper .introduce .intro-head .title {
+    font-size: 30px;
+    line-height: 40px;
+}
+.introduce-wrapper .introduce .intro-head h3 {
+    font-size: 20px;
+}
+.news ul li .grid .overlay a {
+    margin-top:25px;
+}
+}
+/* ------------------------ 
+    Max Width 1024px 
+------------------------ */
+@media (max-width: 1024px) {
+
+}
+/* ------------------------ 
+    Min Width 1000px 
+------------------------ */
+@media (min-width: 1000px) {
+
+}
+/* ------------------------ 
+    Max Width 966px 
+------------------------ */
+@media (max-width: 966px) {
+.news ul li .grid .overlay {
+    padding:10px;
+}
+.news ul li .grid .overlay a {
+    margin-top:5px;
+}
+.news ul li .grid .overlay h5 {
+    font-size: 16px;
+    line-height: 26px;
+}
+}
+/* ------------------------ 
+    Max Width 853px 
+------------------------ */
+@media (max-width: 853px) {
+
+}
+/* ------------------------ 
+    Max Width 800px 
+------------------------ */
+@media (max-width: 800px) {
+
+}
+/* ------------------------------------ 
+    Min Width 769px Max Width 966
+------------------------------------ */
+@media (min-width: 768px) and (max-width: 966px) {
+.body_content .content .news_list .news_grid .gridi.detail,
+.body_content .content .news_list .news_grid .gridi.img_sec {
+    position: relative;
+    width:100%;
+}
+}
+/* ------------------------ 
+    Min Width 769px 
+------------------------ */
+@media (min-width: 769px) {
+
+}
+/* ------------------------ 
+    Max Width 768px 
+------------------------ */
+@media (max-width: 768px) {
+.body_content .service .contain {
+    margin-bottom:1em;
+}
+.body_content .content .sub_division .grid_list li {
+    flex-basis: calc(50% - 10px);
+}
+}
+/* ------------------------ 
+    Max Width 736px 
+------------------------ */
+@media (max-width: 736px) {
+.introduce-wrapper {
+    position: relative;
+}
+.service .contain .service-box i {
+    float:none;
+    margin-bottom:20px;
+}
+.footer .grid_left .grid {
+    margin-bottom:30px;
+    float: left;
+    width: 33%;
+}
+.menu nav.navbar .navbar-nav li.dropdown .dropdown-menu {
+    padding-left:35px;
+}
+.save_live {
+    padding-bottom:15px;
+}
+.top_bar .grid.grid_left {
+    text-align: center;
+}
+.top_bar .grid.grid_right {
+    text-align: center;
+}
+}
+/* ------------------------ 
+    Max Width 720px 
+------------------------ */
+@media (max-width: 720px) {
+
+}
+/* ------------------------ 
+    Max Width 690px 
+------------------------ */
+@media (max-width: 690px) {
+.news ul li .grid .overlay a {
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 5px;
+}
+.body_content .content .table {
+    display: block;
+    width:100%;
+    overflow-x:scroll;
+}
+}
+/* ------------------------ 
+    Max Width 667px 
+------------------------ */
+@media (max-width: 667px) {
+.body_content .content .news_list .news_grid .gridi.detail,
+.body_content .content .news_list .news_grid .gridi.img_sec {
+    position: relative;
+    width:100%;
+}
+}
+/* ------------------------ 
+    Max Width 640px 
+------------------------ */
+@media (max-width: 640px) {
+
+}
+/* ------------------------ 
+    Max Width 603px 
+------------------------ */
+@media (max-width: 603px) {
+.news ul li {
+    flex-basis: 50%;
+}
+.news ul li .grid .overlay a {
+    margin-top:45px;
+}
+}
+/* ------------------------ 
+    Max Width 600px 
+------------------------ */
+@media (max-width: 600px) {
+.footer .grid_left .grid {
+    width: 50%;
+}
+}
+/* ------------------------ 
+    Max Width 568px 
+------------------------ */
+@media (max-width: 568px) {
+
+}
+/* ------------------------ 
+    Max Width 533px 
+------------------------ */
+@media (max-width: 533px) {
+
+}
+/* ------------------------ 
+    Max Width 480px 
+------------------------ */
+@media (max-width: 480px) {
+.news ul li .grid .overlay a {
+    margin-top:15px;
+}
+.body_content .content .tab_lis .cus_col {
+    width:100%;
+}
+}
+/* ------------------------ 
+    Max Width 414px 
+------------------------ */
+@media (max-width: 414px) {
+.news ul li .grid .overlay a {
+    margin-top:10px;
+}
+.body_content .content .sub_division .grid_list li {
+    flex-basis: calc(100% - 10px);
+}
+}
+/* ------------------------ 
+    Max Width 384px 
+------------------------ */
+@media (max-width: 384px) {
+.news ul li {
+    flex-basis: 100%;
+}
+.news ul li .grid .overlay a {
+    margin-top:45px;
+}
+.footer .grid_left .grid {
+    width: 100%;
+    margin-bottom:30px;
+}
+}
+/* ------------------------ 
+    Max Width 375px 
+------------------------ */
+@media (max-width: 375px) {
+
+}
+/* ------------------------ 
+    Max Width 320px 
+------------------------ */
+@media (max-width: 320px) {
+
+}
